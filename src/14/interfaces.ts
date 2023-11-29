@@ -15,3 +15,4 @@ getCoupon: (name: "10percentdiscount", value: 10) => {
     return 10
 }
 }
+ 
