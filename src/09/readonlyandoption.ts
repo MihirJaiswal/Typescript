@@ -26,7 +26,7 @@ type cardNumber = {
 type cardDate = {
     cardDate: string
 }
-
+ 
 //so here i jsut reused the above two types and mix it with its own.
 type cardDetails = cardNumber & cardDate & {
     CVV: number
