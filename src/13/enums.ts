@@ -5,4 +5,4 @@ enum SeatChoice {
     FOURTH
 }
 
-const hcSeat = SeatChoice.WINDOW
+const hcSeat = SeatChoice.WINDOW 
