@@ -19,3 +19,4 @@ etc*/
 //let variableName: type = value
 var greeting = "Mihir Jaiswal";
 console.log(greeting);
+ 
