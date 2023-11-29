@@ -31,4 +31,3 @@ console.log(greeting);//it will always going to accept only string
 
 export {}
 
-//js does not have any special runtime value for int or float everyting is a numbber

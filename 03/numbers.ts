@@ -10,4 +10,4 @@ userId.toFixed()*/
 
 //boolean
 let isLoggedIn: boolean = false //true or false nothing else
-
+export{}
