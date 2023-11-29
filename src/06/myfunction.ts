@@ -32,7 +32,7 @@ function consoleError(errMsg: string): void{
 
 //never the never types represents values which are never
 //observed means that the function throws an exception or terminates
-//execution of the program.
+//execution of the program. 
 
 function handleError(errmsg: string): never{
     throw new Error(errmsg);
