@@ -17,7 +17,7 @@ etc*/
 // A function accepts 2 numbers
 // A function returns a string
 
-//syntax
+//syntax 
 
 //let variableName: type = value
 
