@@ -14,3 +14,4 @@ let rgb: [number, number, number] = [233, 282, 222]
 type user = [number, string]
 
 const newuser: user = [112, "ec@gmail.com"]
+ 
