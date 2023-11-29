@@ -37,6 +37,6 @@ signUpUser("Mihir", "mihirjaiswal69@gmail.com", 10/11/2001)
 let loginUser = (name: string, email: string, ispaid: boolean = false) => {
 
 }
-loginUser("k","m@6969.com")//so in the case where we dont wanna pass any param we can simply initialize in 
+loginUser("k","m@6969.com")//so in the case where we dont wanna pass any param we can simply initialize in  
 
 export{}
