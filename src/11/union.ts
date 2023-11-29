@@ -36,6 +36,6 @@ const data2: string[] = ["1","2","3","4"]
 const data3: (string | number)[] = [1,2,"3"]
 
 
- 
+  
 
 
