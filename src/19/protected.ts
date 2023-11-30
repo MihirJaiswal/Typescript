@@ -22,7 +22,7 @@ class Emp {
     }
 }
 
-class salesEmp extends Emp{
+class salesEmp extends Emp{   //extends use for inheritance
     private department : string;
 
     constructor(name:string, code:number, department: string){
