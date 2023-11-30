@@ -29,7 +29,7 @@ getCoupon: (name: "10percentdiscount", value: 10) => {
 }
 }
 
-
+ 
 //interface vs types
 //type cannot be reopned to add new properties vs interface
 //which is always extendable
