@@ -16,7 +16,7 @@ class User3 {
    
     readonly city: string = "indore"
     constructor(
-        public email: string,
+        public email: string, 
         public name: string
         ){
     }
